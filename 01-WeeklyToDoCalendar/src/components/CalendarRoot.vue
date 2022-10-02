@@ -35,6 +35,7 @@
             :placeholder="parseInt(sharedState.setting.week)"
             v-if="this.weekedit"
             v-model="newWeek"
+            @keyup.enter="updateWeek(sharedState.setting.week, newWeek)"
             ref="inputWeek"
             min="1"
             max="4"
