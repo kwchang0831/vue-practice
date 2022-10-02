@@ -9,7 +9,8 @@
     "preview": "vite preview",
     "type-check": "vue-tsc --noEmit",
     "lint": "prettier --check --plugin-search-dir=. . && eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore",
-    "format": "prettier --write --plugin-search-dir=. ."
+    "format": "prettier --write --plugin-search-dir=. .",
+    "surge": "pnpm build && cd dist && surge --domain kwchang0831-vue-ex01.surge.sh"
   },
   "dependencies": {
     "vue": "^3.2.40"
