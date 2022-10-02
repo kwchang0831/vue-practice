@@ -6,7 +6,7 @@
         <div v-if="!day.active" class="i-fa-plus w3 h3 hover:cursor-pointer" @click="setActiveDay(day.id)"></div>
         <div v-if="day.active" class="i-fa-close w3 h3 hover:cursor-pointer" @click="doneSetActiveDay()"></div>
       </h2>
-      <ul v-if="!day.active">
+      <ul v-if="!day.active" class="scrollbar scrollbar-w-4px scrollbar-thumb-color-green">
         <CalendarTodo v-for="(todo, index) in day.todos" :key="index" :todo="todo" :day="day" />
       </ul>
 
