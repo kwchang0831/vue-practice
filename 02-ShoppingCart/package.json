@@ -12,6 +12,7 @@
     "lint": "prettier --check --plugin-search-dir=. . && eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore",
     "format": "prettier --write --plugin-search-dir=. .",
     "server": "cd server && deno run --allow-net main.ts",
+    "server-deploy": "cd server && deployctl deploy --project=kwchang0831-vue-ex-02 ./main.ts",
     "surge": "pnpm build && cd dist && surge --domain kwchang0831-vue-ex02.surge.sh"
   },
   "dependencies": {

@@ -2,7 +2,7 @@ import { Application, Router } from 'https://deno.land/x/oak/mod.ts';
 import { CorsOptionsDelegate, oakCors } from 'https://deno.land/x/cors/mod.ts';
 import data from './data.json' assert { type: 'json' };
 
-const whitelist = ['https://kwchang0831-vue-ex02.surge.sh/', 'http://localhost:5173'];
+const whitelist = ['https://kwchang0831-vue-ex02.surge.sh', 'http://localhost:5173'];
 
 const corsOptionsDelegate: CorsOptionsDelegate<Request> = async (request) => {
   const isOriginAllowed = whitelist.includes(request.headers.get('origin') ?? '');
@@ -26,6 +26,10 @@ router.post('/api/checkout', oakCors(corsOptionsDelegate), async (c) => {
   c.response.status = 200;
 });
 
+const errorHandler = (evt) => {
+  console.log(evt.error);
+};
+
 app.use(
   oakCors({
     origin: whitelist,
@@ -33,6 +37,7 @@ app.use(
 );
 app.use(router.routes());
 app.use(router.allowedMethods());
+app.addEventListener('error', errorHandler);
 
 await app.listen({ port: 8080 });
 console.log('? Deno start !');
