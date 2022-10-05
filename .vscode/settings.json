@@ -1,0 +1,8 @@
+{
+  "deno.enable": false,
+  "deno.lint": false,
+  "deno.unstable": true,
+  "deno.enablePaths": [
+    "./02/server/"
+  ]
+}

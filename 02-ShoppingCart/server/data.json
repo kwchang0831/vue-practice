@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Lorem ipsum dolor sit amet",
+    "description": "Proin ut sapien vulputate, vulputate purus ac, placerat arcu.",
+    "cover": "/product-1.webp",
+    "price": 399
+  },
+  {
+    "id": 2,
+    "title": "Cras dignissim diam lacus",
+    "description": "Quisque in magna fermentum, aliquam nunc vitae, placerat felis.",
+    "cover": "/product-2.webp",
+    "price": 631
+  },
+  {
+    "id": 3,
+    "title": "Quisque ultricies elit leo",
+    "description": "Praesent ac urna molestie, ullamcorper neque a, porta lacus.",
+    "cover": "/product-3.webp",
+    "price": 499
+  },
+  {
+    "id": 4,
+    "title": "Nullam molestie erat ac neque",
+    "description": "Quisque elementum nulla vel leo rhoncus, nec maximus nisl lacinia.",
+    "cover": "/product-4.webp",
+    "price": 672
+  },
+  {
+    "id": 5,
+    "title": "Aenean sed elit in sem",
+    "description": "Phasellus fermentum magna sit amet purus porta, sit amet vehicula erat pretium.",
+    "cover": "/product-5.webp",
+    "price": 490
+  },
+  {
+    "id": 6,
+    "title": "Phasellus blandit suscipit gravida",
+    "description": "Sed finibus mauris sit amet neque dignissim, at lobortis sem feugiat.",
+    "cover": "/product-6.webp",
+    "price": 774
+  }
+]
