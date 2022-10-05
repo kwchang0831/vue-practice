@@ -39,7 +39,6 @@ export const store = {
     dayObj.todos.splice(todoIndexToRemove, 1);
   },
   editTodo(dayId, todoDetails) {
-    console.log(dayId, todoDetails);
     this.resetEditOfAllTodos();
     const todoObj = this.getTodoObj(dayId, todoDetails);
     todoObj.edit = true;

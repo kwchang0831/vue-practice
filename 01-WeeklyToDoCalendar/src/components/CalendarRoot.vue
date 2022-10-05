@@ -82,7 +82,6 @@ export default {
     editMonth() {
       this.monthedit = true;
       this.$nextTick(() => {
-        this.$refs.selectMonth.show();
         this.$refs.selectMonth.focus();
       });
     },
