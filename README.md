@@ -12,3 +12,11 @@
 
 - [Pinia](https://pinia.vuejs.org/) store and state management. (Composition API w/ SFCs)
 - Utlize Deno to serve simple API server.
+
+## 03. Loading Image Transition
+
+[DEMO :rocket:](https://kwchang0831-vue-ex03.surge.sh/)
+
+- Transition
+- Recursive Components
+- Image loading effect

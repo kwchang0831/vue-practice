@@ -1,0 +1,48 @@
+{
+  "name": "@kwchang0831/vue-ex-03",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "node sqip && vue-tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "type-check": "vue-tsc --noEmit",
+    "lint": "prettier --check --plugin-search-dir=. . && eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore",
+    "format": "prettier --write --plugin-search-dir=. .",
+    "gen-svg-json": "primitive -i public/input.jpg -o public/output.svg -n 180 && node sqip",
+    "surge": "pnpm build && cd dist && surge --domain kwchang0831-vue-ex03.surge.sh"
+  },
+  "dependencies": {
+    "vue": "^3.2.40"
+  },
+  "devDependencies": {
+    "@iconify-json/fa": "^1.1.2",
+    "@rushstack/eslint-patch": "^1.2.0",
+    "@types/node": "^18.7.23",
+    "@unocss/core": "^0.45.26",
+    "@unocss/preset-icons": "^0.45.26",
+    "@unocss/preset-uno": "^0.45.26",
+    "@unocss/reset": "^0.45.26",
+    "@unocss/transformer-directives": "^0.45.26",
+    "@unocss/transformer-variant-group": "^0.45.26",
+    "@vitejs/plugin-vue": "^3.1.2",
+    "@vue/eslint-config-prettier": "^7.0.0",
+    "@vue/eslint-config-typescript": "^11.0.2",
+    "chalk": "^5.1.0",
+    "eslint": "^8.24.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-vue": "^9.5.1",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^2.7.1",
+    "sass": "^1.55.0",
+    "sqip": "^0.3.3",
+    "to-vfile": "^7.2.3",
+    "typescript": "^4.8.4",
+    "unocss": "^0.45.26",
+    "unocss-preset-scrollbar": "^0.2.1",
+    "vite": "^3.1.4",
+    "vue-tsc": "^0.40.4",
+    "xml-js": "^1.6.11"
+  }
+}

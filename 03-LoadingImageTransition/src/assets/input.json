@@ -1,0 +1,1656 @@
+{
+    "elements": [
+        {
+            "type": "element",
+            "name": "svg",
+            "attributes": {
+                "xmlns": "http://www.w3.org/2000/svg",
+                "version": "1.1",
+                "width": "1024",
+                "height": "680"
+            },
+            "elements": [
+                {
+                    "type": "element",
+                    "name": "rect",
+                    "attributes": {
+                        "x": "0",
+                        "y": "0",
+                        "width": "1024",
+                        "height": "680",
+                        "fill": "#646b65"
+                    }
+                },
+                {
+                    "type": "element",
+                    "name": "g",
+                    "attributes": {
+                        "transform": "scale(4.000000) translate(0.5 0.5)"
+                    },
+                    "elements": [
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#fffff4",
+                                "fill-opacity": "0.501961",
+                                "points": "5,-16 -16,82 271,22"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#000000",
+                                "fill-opacity": "0.501961",
+                                "points": "82,47 271,169 -16,168"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#cbc5be",
+                                "fill-opacity": "0.501961",
+                                "points": "252,-16 -16,62 271,87"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#000c04",
+                                "fill-opacity": "0.501961",
+                                "points": "271,185 249,81 -16,163"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#395c62",
+                                "fill-opacity": "0.501961",
+                                "points": "161,137 270,82 -16,67"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#0a0b00",
+                                "fill-opacity": "0.501961",
+                                "points": "-16,176 -9,69 199,185"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#a1c3d4",
+                                "fill-opacity": "0.501961",
+                                "points": "-16,1 271,63 253,-16"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#ffcc7d",
+                                "fill-opacity": "0.501961",
+                                "points": "72,79 80,16 -16,53"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#545c58",
+                                "fill-opacity": "0.501961",
+                                "points": "-12,115 112,109 28,57"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#ffe4b0",
+                                "fill-opacity": "0.501961",
+                                "points": "68,35 -16,13 10,72"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#c68261",
+                                "fill-opacity": "0.501961",
+                                "points": "165,86 53,47 144,46"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#597f95",
+                                "fill-opacity": "0.501961",
+                                "points": "124,45 271,55 251,95"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#395a65",
+                                "fill-opacity": "0.501961",
+                                "points": "149,116 165,77 271,134"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#080c00",
+                                "fill-opacity": "0.501961",
+                                "points": "109,107 7,168 269,173"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#535345",
+                                "fill-opacity": "0.501961",
+                                "points": "99,62 56,135 80,43"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#dcd4ce",
+                                "fill-opacity": "0.501961",
+                                "points": "215,46 92,9 31,41"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#19414c",
+                                "fill-opacity": "0.501961",
+                                "points": "116,86 271,87 250,124"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#a5bac3",
+                                "fill-opacity": "0.501961",
+                                "points": "103,100 72,98 93,110"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#ffb767",
+                                "fill-opacity": "0.501961",
+                                "points": "46,40 35,74 81,61"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#92b2bf",
+                                "fill-opacity": "0.501961",
+                                "points": "253,-16 259,38 65,0"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#000000",
+                                "fill-opacity": "0.501961",
+                                "points": "78,136 26,103 18,119"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#6a8694",
+                                "fill-opacity": "0.501961",
+                                "points": "164,100 194,118 148,117"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#1c3232",
+                                "fill-opacity": "0.501961",
+                                "points": "157,97 112,61 127,156"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#85939b",
+                                "fill-opacity": "0.501961",
+                                "points": "12,18 51,-4 77,33"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#4e5b58",
+                                "fill-opacity": "0.501961",
+                                "points": "214,122 260,86 201,178"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#694d37",
+                                "fill-opacity": "0.501961",
+                                "points": "64,71 -16,72 40,96"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#cca99d",
+                                "fill-opacity": "0.501961",
+                                "points": "146,86 174,76 102,35"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#483609",
+                                "fill-opacity": "0.501961",
+                                "points": "47,123 -16,132 83,155"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#ffe2a8",
+                                "fill-opacity": "0.501961",
+                                "points": "25,25 17,78 -16,43"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#ffb26e",
+                                "fill-opacity": "0.501961",
+                                "points": "97,77 97,60 112,57"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#6690a1",
+                                "fill-opacity": "0.501961",
+                                "points": "6,120 -16,98 22,110"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#0b0c00",
+                                "fill-opacity": "0.501961",
+                                "points": "74,47 80,56 88,49"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#2f4c52",
+                                "fill-opacity": "0.501961",
+                                "points": "82,123 33,104 59,63"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#5c92a7",
+                                "fill-opacity": "0.501961",
+                                "points": "172,84 195,67 255,88"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#001e20",
+                                "fill-opacity": "0.501961",
+                                "points": "86,90 99,101 95,56"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#43311f",
+                                "fill-opacity": "0.501961",
+                                "points": "19,66 36,67 32,100"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#fdc395",
+                                "fill-opacity": "0.501961",
+                                "points": "86,45 87,68 98,30"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#283d3e",
+                                "fill-opacity": "0.501961",
+                                "points": "162,113 163,144 123,145"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#877058",
+                                "fill-opacity": "0.501961",
+                                "points": "72,67 83,97 84,53"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#0f1000",
+                                "fill-opacity": "0.501961",
+                                "points": "191,169 210,124 167,120"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#092526",
+                                "fill-opacity": "0.501961",
+                                "points": "117,93 93,93 103,68"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#ffc380",
+                                "fill-opacity": "0.501961",
+                                "points": "27,43 45,74 78,53"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#b1acb0",
+                                "fill-opacity": "0.501961",
+                                "points": "252,81 209,73 271,68"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#b9bdbc",
+                                "fill-opacity": "0.501961",
+                                "points": "184,51 107,-16 241,49"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#966244",
+                                "fill-opacity": "0.501961",
+                                "points": "24,79 4,66 -16,87"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#000100",
+                                "fill-opacity": "0.501961",
+                                "points": "212,170 89,185 66,125"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#2f4a4e",
+                                "fill-opacity": "0.501961",
+                                "points": "130,69 98,115 141,82"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#68716f",
+                                "fill-opacity": "0.501961",
+                                "points": "163,98 148,130 147,110"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#ffae66",
+                                "fill-opacity": "0.501961",
+                                "points": "67,77 64,58 80,52"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#d7ccbe",
+                                "fill-opacity": "0.501961",
+                                "points": "50,8 91,49 147,46"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#43849b",
+                                "fill-opacity": "0.501961",
+                                "points": "165,79 155,89 137,80"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#e39669",
+                                "fill-opacity": "0.501961",
+                                "points": "113,54 102,55 111,78"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#10201c",
+                                "fill-opacity": "0.501961",
+                                "points": "206,117 202,105 180,112"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#ca9d87",
+                                "fill-opacity": "0.501961",
+                                "points": "153,51 113,41 120,72"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#4f6160",
+                                "fill-opacity": "0.501961",
+                                "points": "238,109 203,121 261,146"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#00100c",
+                                "fill-opacity": "0.501961",
+                                "points": "71,108 97,111 71,118"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#ffe9c5",
+                                "fill-opacity": "0.501961",
+                                "points": "-16,73 1,-4 13,63"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#90afba",
+                                "fill-opacity": "0.501961",
+                                "points": "250,34 241,-7 115,-2"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#1a363f",
+                                "fill-opacity": "0.501961",
+                                "points": "-5,93 38,91 10,109"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#95877a",
+                                "fill-opacity": "0.501961",
+                                "points": "209,84 214,93 211,108"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#212b28",
+                                "fill-opacity": "0.501961",
+                                "points": "100,68 109,69 108,75"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#28332b",
+                                "fill-opacity": "0.501961",
+                                "points": "265,117 201,138 206,174"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#647f88",
+                                "fill-opacity": "0.501961",
+                                "points": "258,75 170,55 249,51"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#0c211f",
+                                "fill-opacity": "0.501961",
+                                "points": "212,110 214,99 248,106"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#86654b",
+                                "fill-opacity": "0.501961",
+                                "points": "37,87 26,55 38,61"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#50767f",
+                                "fill-opacity": "0.501961",
+                                "points": "141,103 125,108 153,109"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#41360f",
+                                "fill-opacity": "0.501961",
+                                "points": "248,185 271,144 242,148"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#ffd288",
+                                "fill-opacity": "0.501961",
+                                "points": "17,71 46,37 -5,62"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#8499a0",
+                                "fill-opacity": "0.501961",
+                                "points": "100,111 71,101 103,102"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#80868c",
+                                "fill-opacity": "0.501961",
+                                "points": "136,61 156,42 220,77"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#556468",
+                                "fill-opacity": "0.501961",
+                                "points": "61,119 59,86 72,123"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#16414c",
+                                "fill-opacity": "0.501961",
+                                "points": "155,92 178,106 228,84"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#000500",
+                                "fill-opacity": "0.501961",
+                                "points": "38,107 13,123 54,124"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#041b19",
+                                "fill-opacity": "0.501961",
+                                "points": "150,104 113,107 128,98"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#5e6f6e",
+                                "fill-opacity": "0.501961",
+                                "points": "38,74 49,109 34,106"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#1d3335",
+                                "fill-opacity": "0.501961",
+                                "points": "96,54 90,58 94,77"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#001e26",
+                                "fill-opacity": "0.501961",
+                                "points": "74,98 64,91 61,103"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#d7977c",
+                                "fill-opacity": "0.501961",
+                                "points": "44,37 11,30 31,28"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#b6cad3",
+                                "fill-opacity": "0.501961",
+                                "points": "47,9 -10,13 -16,-13"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#1c200b",
+                                "fill-opacity": "0.501961",
+                                "points": "6,129 -16,162 68,153"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#071a19",
+                                "fill-opacity": "0.501961",
+                                "points": "181,117 158,119 143,134"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#878d8e",
+                                "fill-opacity": "0.501961",
+                                "points": "44,27 64,17 3,12"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#1b2722",
+                                "fill-opacity": "0.501961",
+                                "points": "120,131 75,109 156,109"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#a6cddc",
+                                "fill-opacity": "0.501961",
+                                "points": "271,-16 271,35 237,3"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#a6b8bd",
+                                "fill-opacity": "0.501961",
+                                "points": "240,33 123,-14 44,11"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#334b4a",
+                                "fill-opacity": "0.501961",
+                                "points": "118,94 111,64 125,75"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#2a2c19",
+                                "fill-opacity": "0.501961",
+                                "points": "89,48 84,53 72,47"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#1a2e2e",
+                                "fill-opacity": "0.501961",
+                                "points": "44,115 65,131 57,93"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#3d7891",
+                                "fill-opacity": "0.501961",
+                                "points": "175,109 179,120 195,119"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#e4a185",
+                                "fill-opacity": "0.501961",
+                                "points": "144,79 174,75 130,69"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#000d0f",
+                                "fill-opacity": "0.501961",
+                                "points": "92,100 94,80 103,92"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#c7d0d1",
+                                "fill-opacity": "0.501961",
+                                "points": "93,10 159,43 59,25"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#3e300e",
+                                "fill-opacity": "0.501961",
+                                "points": "22,120 79,140 39,150"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#667678",
+                                "fill-opacity": "0.501961",
+                                "points": "219,99 231,98 223,104"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#ffd699",
+                                "fill-opacity": "0.501961",
+                                "points": "59,54 40,47 37,73"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#ffa95c",
+                                "fill-opacity": "0.501961",
+                                "points": "78,61 53,57 60,68"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#6c5a45",
+                                "fill-opacity": "0.501961",
+                                "points": "77,81 18,64 23,80"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#1c383c",
+                                "fill-opacity": "0.501961",
+                                "points": "132,72 147,94 138,143"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#cfc4b4",
+                                "fill-opacity": "0.501961",
+                                "points": "17,109 22,109 13,115"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#45462e",
+                                "fill-opacity": "0.501961",
+                                "points": "15,134 -9,126 14,111"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#f1c8a6",
+                                "fill-opacity": "0.501961",
+                                "points": "127,51 102,37 87,47"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#5e777b",
+                                "fill-opacity": "0.501961",
+                                "points": "243,109 223,122 207,120"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#ffe5cc",
+                                "fill-opacity": "0.501961",
+                                "points": "-16,25 -5,42 48,41"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#4a5e64",
+                                "fill-opacity": "0.501961",
+                                "points": "92,98 91,79 66,104"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#403e2d",
+                                "fill-opacity": "0.501961",
+                                "points": "80,63 81,71 72,65"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#17363a",
+                                "fill-opacity": "0.501961",
+                                "points": "170,81 157,86 175,104"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#cc8d6c",
+                                "fill-opacity": "0.501961",
+                                "points": "105,63 131,60 86,47"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#476b7c",
+                                "fill-opacity": "0.501961",
+                                "points": "158,133 175,127 165,134"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#455554",
+                                "fill-opacity": "0.501961",
+                                "points": "53,65 64,70 64,97"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#010500",
+                                "fill-opacity": "0.501961",
+                                "points": "24,121 22,105 67,130"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#6c96a6",
+                                "fill-opacity": "0.501961",
+                                "points": "176,72 207,84 170,85"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#6c848b",
+                                "fill-opacity": "0.501961",
+                                "points": "233,42 242,49 246,40"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#dd976d",
+                                "fill-opacity": "0.501961",
+                                "points": "32,43 57,52 73,46"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#527584",
+                                "fill-opacity": "0.501961",
+                                "points": "103,94 104,114 92,108"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#ffde95",
+                                "fill-opacity": "0.501961",
+                                "points": "66,79 66,66 70,74"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#85a1ac",
+                                "fill-opacity": "0.501961",
+                                "points": "29,-16 83,15 26,1"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#fca977",
+                                "fill-opacity": "0.501961",
+                                "points": "97,77 106,61 99,60"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#3e575c",
+                                "fill-opacity": "0.501961",
+                                "points": "241,94 251,145 237,143"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#070a00",
+                                "fill-opacity": "0.501961",
+                                "points": "215,185 252,151 224,151"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#ffc776",
+                                "fill-opacity": "0.501961",
+                                "points": "62,57 50,72 37,63"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#415d65",
+                                "fill-opacity": "0.501961",
+                                "points": "143,144 155,142 135,139"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#297f9a",
+                                "fill-opacity": "0.501961",
+                                "points": "42,107 50,102 45,112"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#4488a1",
+                                "fill-opacity": "0.501961",
+                                "points": "265,78 271,90 224,84"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#c8c9c4",
+                                "fill-opacity": "0.501961",
+                                "points": "83,97 85,105 91,105"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#a28d81",
+                                "fill-opacity": "0.501961",
+                                "points": "169,105 158,113 157,106"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#63675f",
+                                "fill-opacity": "0.501961",
+                                "points": "203,111 213,110 213,99"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#191c09",
+                                "fill-opacity": "0.501961",
+                                "points": "216,140 148,139 203,121"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#ffdf9f",
+                                "fill-opacity": "0.501961",
+                                "points": "-13,64 24,43 27,65"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#36311c",
+                                "fill-opacity": "0.501961",
+                                "points": "79,61 82,63 82,52"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#d8a085",
+                                "fill-opacity": "0.501961",
+                                "points": "117,58 130,75 121,69"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#eefdff",
+                                "fill-opacity": "0.501961",
+                                "points": "2,113 -16,123 -16,114"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#beb9b3",
+                                "fill-opacity": "0.501961",
+                                "points": "72,18 107,40 46,29"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#b76f38",
+                                "fill-opacity": "0.501961",
+                                "points": "10,68 -16,89 -16,66"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#13343c",
+                                "fill-opacity": "0.501961",
+                                "points": "229,89 214,84 216,99"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#323a35",
+                                "fill-opacity": "0.501961",
+                                "points": "16,81 29,106 34,75"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#a9928e",
+                                "fill-opacity": "0.501961",
+                                "points": "124,67 163,74 151,43"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#c4c6c3",
+                                "fill-opacity": "0.501961",
+                                "points": "199,48 145,42 105,-1"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#728184",
+                                "fill-opacity": "0.501961",
+                                "points": "53,100 47,104 56,104"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#2f4641",
+                                "fill-opacity": "0.501961",
+                                "points": "119,64 115,61 116,75"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#3d5e68",
+                                "fill-opacity": "0.501961",
+                                "points": "179,128 177,85 189,92"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#aeb4b4",
+                                "fill-opacity": "0.501961",
+                                "points": "184,23 231,56 237,29"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#72827e",
+                                "fill-opacity": "0.501961",
+                                "points": "89,73 92,65 71,79"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#556665",
+                                "fill-opacity": "0.501961",
+                                "points": "216,118 208,133 237,119"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#151d15",
+                                "fill-opacity": "0.501961",
+                                "points": "103,130 105,102 130,135"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#fad5b5",
+                                "fill-opacity": "0.501961",
+                                "points": "78,45 39,41 79,34"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#000000",
+                                "fill-opacity": "0.501961",
+                                "points": "271,120 252,121 271,162"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#4b6b7a",
+                                "fill-opacity": "0.501961",
+                                "points": "197,106 153,120 171,106"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#88a8b4",
+                                "fill-opacity": "0.501961",
+                                "points": "227,33 230,-16 183,-1"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#0f3b47",
+                                "fill-opacity": "0.501961",
+                                "points": "204,89 169,105 209,105"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#315a6b",
+                                "fill-opacity": "0.501961",
+                                "points": "255,102 218,92 250,92"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#172623",
+                                "fill-opacity": "0.501961",
+                                "points": "216,118 223,106 206,117"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#000300",
+                                "fill-opacity": "0.501961",
+                                "points": "66,122 127,135 103,182"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#082120",
+                                "fill-opacity": "0.501961",
+                                "points": "25,114 13,124 13,113"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#204047",
+                                "fill-opacity": "0.501961",
+                                "points": "74,96 77,79 58,90"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#a8aeb3",
+                                "fill-opacity": "0.501961",
+                                "points": "33,6 -12,14 17,22"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#61554d",
+                                "fill-opacity": "0.501961",
+                                "points": "-16,65 33,90 0,87"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#89a2ad",
+                                "fill-opacity": "0.501961",
+                                "points": "114,13 67,-16 17,-16"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#273029",
+                                "fill-opacity": "0.501961",
+                                "points": "120,134 129,112 113,92"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#0c1105",
+                                "fill-opacity": "0.501961",
+                                "points": "149,138 141,139 143,114"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#3e5b63",
+                                "fill-opacity": "0.501961",
+                                "points": "-7,114 6,102 32,102"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#90816c",
+                                "fill-opacity": "0.501961",
+                                "points": "43,86 35,83 44,78"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#032125",
+                                "fill-opacity": "0.501961",
+                                "points": "147,101 155,113 153,97"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#070f05",
+                                "fill-opacity": "0.501961",
+                                "points": "197,138 105,149 210,185"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#273e40",
+                                "fill-opacity": "0.501961",
+                                "points": "85,79 96,64 86,99"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#606664",
+                                "fill-opacity": "0.501961",
+                                "points": "159,98 149,107 183,109"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#34525b",
+                                "fill-opacity": "0.501961",
+                                "points": "171,153 179,152 170,149"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#eca87b",
+                                "fill-opacity": "0.501961",
+                                "points": "112,74 106,63 110,58"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#6a8289",
+                                "fill-opacity": "0.501961",
+                                "points": "200,59 147,48 175,45"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#8e8c88",
+                                "fill-opacity": "0.501961",
+                                "points": "87,104 81,91 83,79"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#425b62",
+                                "fill-opacity": "0.501961",
+                                "points": "105,85 103,98 118,107"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#cfdbe0",
+                                "fill-opacity": "0.501961",
+                                "points": "-9,9 20,11 -16,-11"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#608fa4",
+                                "fill-opacity": "0.501961",
+                                "points": "135,105 137,109 128,107"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#2a2507",
+                                "fill-opacity": "0.501961",
+                                "points": "199,121 170,138 176,125"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#000301",
+                                "fill-opacity": "0.501961",
+                                "points": "46,132 54,121 43,118"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#4b4234",
+                                "fill-opacity": "0.501961",
+                                "points": "83,108 86,107 80,102"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#122b2c",
+                                "fill-opacity": "0.501961",
+                                "points": "243,113 247,98 255,129"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#8a7b6e",
+                                "fill-opacity": "0.501961",
+                                "points": "215,83 210,90 211,95"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#0d160b",
+                                "fill-opacity": "0.501961",
+                                "points": "60,139 54,128 78,117"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#ffd094",
+                                "fill-opacity": "0.501961",
+                                "points": "39,51 38,72 65,52"
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "name": "polygon",
+                            "attributes": {
+                                "fill": "#dd9f7c",
+                                "fill-opacity": "0.501961",
+                                "points": "109,67 124,50 96,68"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
