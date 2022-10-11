@@ -1,0 +1,9 @@
+/// <reference types="vite/client" />
+
+import type { Router } from 'vue-router';
+
+declare module 'pinia' {
+  export interface PiniaCustomProperties {
+    router: Router;
+  }
+}
